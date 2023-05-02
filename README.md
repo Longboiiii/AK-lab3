@@ -1,1 +1,17 @@
 # AK-lab3
+![image](https://user-images.githubusercontent.com/80851470/235626985-331585d0-2934-4825-a64d-22c9a75d5a0a.png)
+![image](https://user-images.githubusercontent.com/80851470/235626999-51963296-72c2-4b9e-b249-2d1dcb93621d.png)
+![image](https://user-images.githubusercontent.com/80851470/235627008-a348830d-91e1-4df6-9f5b-792e1c079bfd.png)
+![image](https://user-images.githubusercontent.com/80851470/235627015-8319755f-82f6-434d-a43b-9b0b13a34666.png)
+![image](https://user-images.githubusercontent.com/80851470/235627020-ad8e499a-fdb0-406d-b142-8a4e6d309895.png)
+![image](https://user-images.githubusercontent.com/80851470/235627024-64fe6b4b-2c3f-4ecd-adeb-92ae92d10309.png)
+![image](https://user-images.githubusercontent.com/80851470/235627027-a55d07a7-3171-46bd-8ce7-777dcf5bec02.png)
+![image](https://user-images.githubusercontent.com/80851470/235627038-716cd408-84b1-4a61-8141-8b34b0e0fb58.png)
+![image](https://user-images.githubusercontent.com/80851470/235627054-835717ea-0238-47de-8b29-d782a3edd98d.png)
+![image](https://user-images.githubusercontent.com/80851470/235627078-177c020e-346c-409d-9700-8cfba95d7c47.png)
+![image](https://user-images.githubusercontent.com/80851470/235627090-8856fae8-a4ad-4536-955e-231920fc2b92.png)
+
+![image](https://user-images.githubusercontent.com/80851470/235627101-fc56aec2-c830-40ab-8e64-b1e640aafa0d.png)
+![image](https://user-images.githubusercontent.com/80851470/235627117-4b51979d-b77a-46a2-8e84-e453d71635f4.png)
+![image](https://user-images.githubusercontent.com/80851470/235627125-53534493-8cd9-47b0-ae78-0bfba7d4c189.png)
+![image](https://user-images.githubusercontent.com/80851470/235627138-e815681b-fcbd-472c-926a-615ac20e0eeb.png)
